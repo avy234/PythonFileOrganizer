@@ -13,7 +13,7 @@ Use case: Ideal for cleaning up messy folders, desktops, or developer directorie
 
 ## Languages and Utilities Used
 
-- **Python **
+- **Python**
 - **os** (Python Standard Library)
 - **shutil** (Python Standard Library)
 
